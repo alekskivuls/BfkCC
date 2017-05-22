@@ -71,8 +71,6 @@ public class Bfk {
 					}
 				}
 				break;
-			default:
-				throw new Exception("Invalid source symbol");
 			}
 		}
 		in.close();
